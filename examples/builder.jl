@@ -15,4 +15,4 @@ function main()
 end
 
 main()
-#wait(Condition())
+wait(Condition())
